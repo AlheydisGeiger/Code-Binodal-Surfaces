@@ -21,3 +21,4 @@ The function <code>investigate_binodalvariety()</code> prints the following data
 
 The function <code>con_mult()</code> computes the multiplicity of a specified connected lattice path for a given polynomial support.
 
+A function to compute the multiplicity of a specified disconnected lattice path for a given polynomial support will be added soon.
